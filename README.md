@@ -60,8 +60,8 @@
   <li>A: <a href="/Grading.md#why-not-submitting"></a> There could honestly be a million reasons why, but ensure the following:</li>
   <ul>
     <li>You have <a href="/Server.md#creating-your-ssh-key">submitted your ssh key</a> correctly</li>
-    <li>If you were able to log on before but are no longer able to, you did not change the location of the ```~/.ssh/id_ed25519``` or ```~/.ssh/id_ed25519.pub``` files, and you haven't generated new keys recently</li>
+    <li>If you were able to log on before but are no longer able to, you did not change the location of the `~/.ssh/id_ed25519` or `~/.ssh/id_ed25519.pub` files, and you haven't generated new keys recently</li>
   </ul>
-  <li>Q: Why is ```eecs201-test``` unable to recieve/clone my submission?</li>
+  <li>Q: Why is `eecs201-test` unable to recieve/clone my submission?</li>
   <li>A: Ensure your submission has followed <a href="/Grading.md#why-not-submitting">these three steps</a>.</li>
 </ul>

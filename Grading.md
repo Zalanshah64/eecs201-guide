@@ -84,7 +84,7 @@ Assignments submitted via <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> wi
 
 <ul>
     <li>Have you correctly named the repository?</li>
-    <li>Have you added ```brng``` as a reporter?</li>
+    <li>Have you added `brng` as a reporter?</li>
     <li>Have you pushed the correct branch up?</li>
 </ul>
 

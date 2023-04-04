@@ -35,8 +35,8 @@ If you have in some shape or form lost access to your ssh key and are completely
 First, you'll need to actually create your ssh key. The program to do this is called ssh-keygen, and it takes a couple of important arguments:
 
 <ul>
-    <li>```-t``` refers to the type of the key. There's a few different types of keys, but the two we'll care for are ed25519 and RSA keys. Aim to generate the former type (they're more secure and shorter), but if your system doesn't support it feel free to use RSA.</li>
-    <li>```-C```` allows you to name your keys so you can differentiate between them. Generally, you might see this as something to the effect of ```username@computer```. </li>
+    <li>`-t` refers to the type of the key. There's a few different types of keys, but the two we'll care for are ed25519 and RSA keys. Aim to generate the former type (they're more secure and shorter), but if your system doesn't support it feel free to use RSA.</li>
+    <li>`-C` allows you to name your keys so you can differentiate between them. Generally, you might see this as something to the effect of `username@computer`. </li>
 </ul>
 
 Overall, your command should look something like this:
@@ -76,7 +76,7 @@ Once you have submitted your keys, you're ready to log onto the server. The comm
 
     ssh <UNIQNAME>@peritia.eecs.umich.edu
 
-This is, however, very verbose and would get annoying to have to type out every single time. Instead, add the following lines to your ```~/.ssh/config``` file (create it if it doesn't exist):
+This is, however, very verbose and would get annoying to have to type out every single time. Instead, add the following lines to your `~/.ssh/config` file (create it if it doesn't exist):
 
     Host eecs201
         User <UNIQNAME>
