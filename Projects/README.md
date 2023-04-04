@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://www.eecs.umich.edu/courses/eecs201/wn2023/"><img src="images/logo.png" alt="Logo" width="80" height="80"></a>
+    <a href="https://www.eecs.umich.edu/courses/eecs201/wn2023/"><img src="/images/logo.png" alt="Logo" width="80" height="80"></a>
     <h3 align="center">The EECS 201 Master Guide</h3>
 </div>
 <br/>
@@ -22,4 +22,4 @@ TODO: Add information here
 TODO: Add information here
 
 
-<p align="right">(<a href="/">Back</a>)</p>
+<p align="right">(<a href="/README.md">Back</a>)</p>

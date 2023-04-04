@@ -55,6 +55,6 @@
 ## Frequently Asked Questions
 
 <ul>
-  <li>How do I submit something on the server?</li>
-  <li>Why is ```eecs201-test``` unable to recieve/clone my submission?</li>
+  <li>Q: Why is ```eecs201-test``` unable to recieve/clone my submission?</li>
+  <li><a href="/Grading.md#why-not-submitting">See here</a></li>
 </ul>

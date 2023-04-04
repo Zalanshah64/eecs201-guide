@@ -87,4 +87,4 @@ Now, you can very easily log onto the server with:
     ssh eecs201
 
 
-<p align="right">(<a href="/">Back</a>)</p>
+<p align="right">(<a href="/README.md">Back</a>)</p>

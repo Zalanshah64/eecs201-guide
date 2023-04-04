@@ -70,3 +70,48 @@ Similarly to the Basic category, all points past the category total of 40 points
 Each week, one lecture survey and one quiz will be released. Each lecture and quiz will be due by the Friday of its corresponding lecture, and will each earn 1 point. If done after the deadline, quizzes can still be submitted for half-credit (i.e. 0.5 points). Surveys <b>cannot</b> be submitted for partial credit.
 
 <p align="right">(<a href="/">Back</a>)</p>
+
+
+## Gradescope and Autograder
+
+Homework assignments will be submitted through one of two methods: <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> or <a href="https://www.gradescope.com/">Gradescope</a>. Gradescope assignments have a hard deadline, but Gitlab assignments are all due at the end of the semester.
+
+Submitting on gradescope is simple enough: answer the questions asked in the homework.
+
+<div name="why-not-submitting"></div>
+
+Assignments submitted via <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> will be pushed up to the server, and then run on <a href="/Server.md">the course server</a>. Everytime you submit, ensure the following three things are true:
+
+<ul>
+    <li>Have you correctly named the repository?</li>
+    <li>Have you added ```brng``` as a reporter?</li>
+    <li>Have you pushed the correct branch up?</li>
+</ul>
+
+The following are all assignments, and a guide for where they are submitted:
+
+<ul>
+    <li>basic-intro - Gradescope</li>
+    <li>basic-git1 - Gitlab</li>
+    <li>adv-git1 - Gradescope</li>
+    <li>basic-unix - Gradescope</li>
+    <li>adv-unix - Gitlab</li>
+    <li>basic-shell - Gitlab</li>
+    <li>adv-shell - Gradescope</li>
+    <li>basic-regex - Gitlab</li>
+    <li>adv-regex - Gitlab</li>
+    <li>basic-git2 - Gitlab</li>
+    <li>adv-git2 - Gitlab</li>
+    <li>basic-make - Gitlab</li>
+    <li>adv-make - Gitlab</li>
+    <li>basic-python - Gitlab</li>
+    <li>adv-python - Gradescope</li>
+    <li>basic-debug - Gitlab</li>
+    <li>adv-debug - Gradescope</li>
+    <li>basic-lib - Gitlab</li>
+    <li>adv-lib - Gitlab</li>
+    <li>basic-conclusion - Gradescope</li>
+    <li>adv-conclusion - Gradescope</li>
+</ul>
+
+<p align="right">(<a href="/README.md">Back</a>)</p>
