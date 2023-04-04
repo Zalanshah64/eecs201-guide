@@ -39,6 +39,23 @@
         <li><a href="#miscellaneous">Miscellaneous</a></li>
       </ul>
     </li>
+    <li>
+    <a href="#projects">Projects</a>
+    <ul>
+        <li><a href="#foss">FOSS</a></li>
+        <li><a href="#website">Website</a></li>
+    </ul>
+    </li>
+    <li>
+    <a href="#course-server">Course Server</a>
+    <ul>
+    <li><a href="#registering">Registering</a></li>
+    <li><a href="#logging-in">Logging In</a></li>
+    </ul>
+    </li>
+    <li>
+    <a href="#frequently-asked-questions">Frequently Asked Questions</a>
+    </li>
   </ol>
 </details>
 
@@ -165,5 +182,56 @@ Similarly to the Basic category, all points past the category total of 40 points
 
 Each week, one lecture survey and one quiz will be released. Each lecture and quiz will be due by the Friday of its corresponding lecture, and will each earn 1 point. If done after the deadline, quizzes can still be submitted for half-credit (i.e. 0.5 points). Surveys <b>cannot</b> be submitted for partial credit.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 <br/>
 <br/>
+<br/>
+
+## Projects
+TODO: Add information here
+
+<br/>
+<br/>
+
+### FOSS
+TODO: Add information here
+
+<br/>
+<br/>
+
+### Website
+TODO: Add information here
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br/>
+<br/>
+<br/>
+
+## Course Server
+TODO: Add information here
+<br/>
+<br/>
+
+### Registering
+TODO: Add information here
+
+<br/>
+<br/>
+
+### Logging In
+TODO: Add information here
+
+<br/>
+<br/>
+<br/>
+
+## Frequently Asked Questions
+
+<ul>
+<li>How do I submit something on the server?</li>
+<li>Why is ```eecs201-test``` unable to recieve/clone my submission?</li>
+</ul>
