@@ -55,4 +55,4 @@ Each week, short bite-sized videos will be released in <a href="https://www.eecs
     <li><a hef="mailto:zalans@umich.edu">Kethan Gudi</a> - Instructional Aide</li>
 </ul>
 
-<p align="right">(<a href="/README.md">Back</a>)</p>
+<p align="right">(<a href="/">Back</a>)</p>

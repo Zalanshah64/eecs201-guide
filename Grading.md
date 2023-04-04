@@ -69,4 +69,4 @@ Similarly to the Basic category, all points past the category total of 40 points
 
 Each week, one lecture survey and one quiz will be released. Each lecture and quiz will be due by the Friday of its corresponding lecture, and will each earn 1 point. If done after the deadline, quizzes can still be submitted for half-credit (i.e. 0.5 points). Surveys <b>cannot</b> be submitted for partial credit.
 
-<p align="right">(<a href="/README.md">Back</a>)</p>
+<p align="right">(<a href="/">Back</a>)</p>
