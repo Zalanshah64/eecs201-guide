@@ -91,27 +91,57 @@ Assignments submitted via <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> wi
 The following are all assignments, and a guide for where they are submitted:
 
 <ul>
-    <li>basic-intro - Gradescope</li>
-    <li>basic-git1 - Gitlab</li>
-    <li>adv-git1 - Gradescope</li>
-    <li>basic-unix - Gradescope</li>
-    <li>adv-unix - Gitlab</li>
-    <li>basic-shell - Gitlab</li>
-    <li>adv-shell - Gradescope</li>
-    <li>basic-regex - Gitlab</li>
-    <li>adv-regex - Gitlab</li>
-    <li>basic-git2 - Gitlab</li>
-    <li>adv-git2 - Gitlab</li>
-    <li>basic-make - Gitlab</li>
-    <li>adv-make - Gitlab</li>
-    <li>basic-python - Gitlab</li>
-    <li>adv-python - Gradescope</li>
-    <li>basic-debug - Gitlab</li>
-    <li>adv-debug - Gradescope</li>
-    <li>basic-lib - Gitlab</li>
-    <li>adv-lib - Gitlab</li>
-    <li>basic-conclusion - Gradescope</li>
-    <li>adv-conclusion - Gradescope</li>
+    <li>
+        Basic
+        <ul>
+            <li>
+                Gitlab
+                <ul>
+                    <li>basic-git1</li>
+                    <li>basic-shell</li>
+                    <li>basic-regex</li>
+                    <li>basic-git2</li>
+                    <li>basic-make</li>
+                    <li>basic-python</li>
+                    <li>basic-debug</li>
+                    <li>basic-lib</li>
+                </ul>
+            </li>
+            <li>
+                Gradescope
+                <ul>
+                    <li>basic-intro</li>
+                    <li>basic-unix</li>
+                    <li>basic-conclusion</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        Advanced
+        <ul>
+            <li>
+                Gitlab
+                <ul>
+                    <li>adv-unix</li>
+                    <li>adv-regex</li>
+                    <li>adv-git2</li>
+                    <li>adv-make</li>
+                    <li>adv-lib</li>
+                </ul>
+            </li>
+            <li>
+                Gradescope
+                <ul>
+                    <li>adv-git1</li>
+                    <li>adv-conclusion</li>
+                    <li>adv-shell</li>
+                    <li>adv-python</li>
+                    <li>adv-debug</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
 </ul>
 
 <p align="right">(<a href="/README.md">Back</a>)</p>
