@@ -1,18 +1,11 @@
-<<<<<<< HEAD
-<div id="top"></div>
-
-<br/>
 <div align="center">
-  <a href="https://www.eecs.umich.edu/courses/eecs201/wn2023/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">The EECS 201 Master Guide</h3>
-
+    <a href="https://www.eecs.umich.edu/courses/eecs201/wn2023/"><img src="images/logo.png" alt="Logo" width="80" height="80"></a>
+    <h3 align="center">The EECS 201 Master Guide</h3>
 </div>
+<br/>
+<br/>
+<br/>
 
-=======
->>>>>>> 338cacc... Moving things to new files
 # Syllabus
 
 This is a 1-credit hour seminar designed to teach students the essentials of using a computer effectively for EECS students. While the target audience is EE/CE/CS/DS students, any student wishing to learn how to use their computer more effectively is encouraged to join. Students are expected to be familiar with basic concepts of programming, such as control flow (e.g. if-else, loops, functions) and expressing their ideas in program statements. Topics covered include Unix-like systems, shells, version control, build systems, debugging, and scripting. The ultimate goal of the class is to give students hands on experience with the prevailing tools of the trade as well cultivate research skills for picking up new tools in an ever-evolving computing landscape.
@@ -62,8 +55,4 @@ Each week, short bite-sized videos will be released in <a href="https://www.eecs
     <li><a hef="mailto:zalans@umich.edu">Kethan Gudi</a> - Instructional Aide</li>
 </ul>
 
-<<<<<<< HEAD
 <p align="right">(<a href="/README.md">Back</a>)</p>
-=======
-<p align="right">(<a href="#top">back to top</a>)</p>
->>>>>>> 338cacc... Moving things to new files
