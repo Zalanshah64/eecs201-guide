@@ -17,24 +17,20 @@ This is a 1-credit hour seminar designed to teach students the essentials of usi
 
 This class requires you to have previously taken any of the following courses:
 
-<ul>
-    <li>EECS 180</li>
-    <li><a href="https://eecs183.github.io/eecs183.org/">EECS 183</a></li>
-    <li><a href="https://engr101staff.github.io/engr101.org/">ENGR 101</a></li>
-    <li><a href="https://adue.engin.umich.edu/engineering-151-accelerated-introduction-to-computers-and-programming/">ENGR 151</a></li>
-    <li><a href="https://robotics102.github.io/">ROB 102</a></li>
-</ul>
+
+- EECS 180
+- <a href="https://eecs183.github.io/eecs183.org/">EECS 183</a>
+- <a href="https://engr101staff.github.io/engr101.org/">ENGR 101</a>
+- <a href="https://adue.engin.umich.edu/engineering-151-accelerated-introduction-to-computers-and-programming/">ENGR 151</a>
+- <a href="https://robotics102.github.io/">ROB 102</a>
 
 Alternatively, you may coenroll with one of the following courses:
 
-<ul>
-    <li><a href="https://eecs280.org/">EECS 280</a></li>
-    <li><a href="https://eecs281staff.github.io/eecs281.org/">EECS 281</a></li>
-</ul>
+- <a href="https://eecs280.org/">EECS 280</a>
+- <a href="https://eecs281staff.github.io/eecs281.org/">EECS 281</a>
 
 <br/>
 <br/>
-
 
 ## Lectures
 
@@ -49,10 +45,8 @@ Each week, short bite-sized videos will be released in <a href="https://www.eecs
 
 ## Staff
 
-<ul>
-    <li><a hef="mailto:brng@umich.edu">Brandon Nguyen</a> - Professor</li>
-    <li><a hef="mailto:zalans@umich.edu">Zalan Shah</a> - Instructional Aide</li>
-    <li><a hef="mailto:zalans@umich.edu">Kethan Gudi</a> - Instructional Aide</li>
-</ul>
+- <a hef="mailto:brng@umich.edu">Brandon Nguyen</a> - Professor
+- <a hef="mailto:zalans@umich.edu">Zalan Shah</a> - Instructional Aide
+- <a hef="mailto:zalans@umich.edu">Kethan Gudi</a> - Instructional Aide
 
 <p align="right">(<a href="/README.md">Back</a>)</p>

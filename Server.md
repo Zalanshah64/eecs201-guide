@@ -21,7 +21,7 @@ In order to access the course server, you must first register your information w
 
 #### Starting Over
 
-<b>If you do not need to start over, continue to the next section.</b>
+**If you do not need to start over, continue to the next section.**
 <br/>
 <br/>
 If you have in some shape or form lost access to your ssh key and are completely unable to retrieve it, you can start this tutorial over with the following command:
@@ -34,10 +34,8 @@ If you have in some shape or form lost access to your ssh key and are completely
 #### Creating your SSH Key
 First, you'll need to actually create your ssh key. The program to do this is called ssh-keygen, and it takes a couple of important arguments:
 
-<ul>
-    <li>`-t` refers to the type of the key. There's a few different types of keys, but the two we'll care for are ed25519 and RSA keys. Aim to generate the former type (they're more secure and shorter), but if your system doesn't support it feel free to use RSA.</li>
-    <li>`-C` allows you to name your keys so you can differentiate between them. Generally, you might see this as something to the effect of `username@computer`. </li>
-</ul>
+- `-t` refers to the type of the key. There's a few different types of keys, but the two we'll care for are ed25519 and RSA keys. Aim to generate the former type (they're more secure and shorter), but if your system doesn't support it feel free to use RSA
+- `-C` allows you to name your keys so you can differentiate between them. Generally, you might see this as something to the effect of `username@computer`.
 
 Overall, your command should look something like this:
 

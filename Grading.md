@@ -15,21 +15,19 @@ This course utilizes a point-accumulation method whose point sums map to a typic
 ## Letter Grades
 
 Final letter grades will be determined by the following scale:
-<ul>
-    <li>[100, ∞ ): A+</li>
-    <li>[93, 100): A</li>
-    <li>[90, 93 ): A-</li>
-    <li>[87, 90 ): B+</li>
-    <li>[83, 87 ): B</li>
-    <li>[80, 83 ): B-</li>
-    <li>[77, 80 ): C+</li>
-    <li>[73, 77 ): C</li>
-    <li>[70, 73 ): C-</li>
-    <li>[67, 70 ): D+</li>
-    <li>[63, 67 ): D</li>
-    <li>[60, 63 ): D-</li>
-    <li>[0 , 60 ): E</li>
-</ul>
+- [100, ∞ ): A+
+- [93, 100): A
+- [90, 93 ): A-
+- [87, 90 ): B+
+- [83, 87 ): B
+- [80, 83 ): B-
+- [77, 80 ): C+
+- [73, 77 ): C
+- [70, 73 ): C-
+- [67, 70 ): D+
+- [63, 67 ): D
+- [60, 63 ): D-
+- [0 , 60 ): E
 
 <br/>
 <br/>
@@ -41,14 +39,11 @@ Each basic assignment will be worth 6 points in total. Every additional point yo
 
 The goal of these assignments is to reinforce concepts introduced in lecture and to give hands-on experience. To emphasize this, your assignment scores will be converted the following way for final grade calculation: what number we report to you will be the raw score. On the left is the raw score and on the right is the adjusted final score.
 
-<ul>
-    <li> [6, ∞): Will not be adjusted</li>
-    <li> [4, 6): 6</li>
-    <li> [2, 4): 4</li>
-    <li> [0.5, 2): 2</li>
-    <li> [0, 0.5): Will not be adjusted</li>
-</ul>
-
+- [6, ∞): Will not be adjusted
+- [4, 6): 6
+- [2, 4): 4
+- [0.5, 2): 2
+- [0, 0.5): Will not be adjusted
 
 <br/>
 <br/>
@@ -69,8 +64,6 @@ Similarly to the Basic category, all points past the category total of 40 points
 
 Each week, one lecture survey and one quiz will be released. Each lecture and quiz will be due by the Friday of its corresponding lecture, and will each earn 1 point. If done after the deadline, quizzes can still be submitted for half-credit (i.e. 0.5 points). Surveys <b>cannot</b> be submitted for partial credit.
 
-<p align="right">(<a href="/">Back</a>)</p>
-
 
 ## Gradescope and Autograder
 
@@ -82,66 +75,38 @@ Submitting on gradescope is simple enough: answer the questions asked in the hom
 
 Assignments submitted via <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> will be pushed up to the server, and then run on <a href="/Server.md">the course server</a>. Everytime you submit, ensure the following three things are true:
 
-<ul>
-    <li>Have you correctly named the repository?</li>
-    <li>Have you added `brng` as a reporter?</li>
-    <li>Have you pushed the correct branch up?</li>
-</ul>
+- Have you correctly named the repository?
+- Have you added `brng` as a reporter?
+- Have you pushed the correct branch up?
 
 The following are all assignments, and a guide for where they are submitted:
 
-<ul>
-    <li>
-        Basic
-        <ul>
-            <li>
-                Gitlab
-                <ul>
-                    <li>basic-git1</li>
-                    <li>basic-shell</li>
-                    <li>basic-regex</li>
-                    <li>basic-git2</li>
-                    <li>basic-make</li>
-                    <li>basic-python</li>
-                    <li>basic-debug</li>
-                    <li>basic-lib</li>
-                </ul>
-            </li>
-            <li>
-                Gradescope
-                <ul>
-                    <li>basic-intro</li>
-                    <li>basic-unix</li>
-                    <li>basic-conclusion</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>
-        Advanced
-        <ul>
-            <li>
-                Gitlab
-                <ul>
-                    <li>adv-unix</li>
-                    <li>adv-regex</li>
-                    <li>adv-git2</li>
-                    <li>adv-make</li>
-                    <li>adv-lib</li>
-                </ul>
-            </li>
-            <li>
-                Gradescope
-                <ul>
-                    <li>adv-git1</li>
-                    <li>adv-conclusion</li>
-                    <li>adv-shell</li>
-                    <li>adv-python</li>
-                    <li>adv-debug</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-</ul>
+- Basic
+  - Gitlab
+    - basic-git1
+    - basic-shell
+    - basic-regex
+    - basic-git2
+    - basic-make
+    - basic-python
+    - basic-debug
+    - basic-lib
+  - Gradescope
+    - basic-intro
+    - basic-unix
+    - basic-conclusion
+- Advanced
+  - Gitlab
+    - adv-unix
+    - adv-regex
+    - adv-git2
+    - adv-make
+    - adv-lib
+  - Gradescope
+    - adv-git1
+    - adv-conclusion
+    - adv-shell
+    - adv-python
+    - adv-debug
 
 <p align="right">(<a href="/README.md">Back</a>)</p>
