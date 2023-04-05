@@ -83,30 +83,30 @@ The following are all assignments, and a guide for where they are submitted:
 
 - Basic
   - Gitlab
-    - basic-git1
-    - basic-shell
-    - basic-regex
-    - basic-git2
-    - basic-make
-    - basic-python
-    - basic-debug
-    - basic-lib
+    - [basic-git1](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-git1)
+    - [basic-shell](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-shell)
+    - [basic-regex](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-regex)
+    - [basic-git2](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-git2)
+    - [basic-make](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-make)
+    - [basic-python](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-python)
+    - [basic-debug](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-debug)
+    - [basic-lib](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-lib)
   - Gradescope
-    - basic-intro
-    - basic-unix
-    - basic-conclusion
+    - [basic-intro](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-intro)
+    - [basic-unix](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-unix)
+    - [basic-conclusion](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/basic-conclusion)
 - Advanced
   - Gitlab
-    - adv-unix
-    - adv-regex
-    - adv-git2
-    - adv-make
-    - adv-lib
+    - [adv-unix](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-unix)
+    - [adv-regex](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-regex)
+    - [adv-git2](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-git2)
+    - [adv-make](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-make)
+    - [adv-lib](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-lib)
   - Gradescope
-    - adv-git1
-    - adv-conclusion
-    - adv-shell
-    - adv-python
-    - adv-debug
+    - [adv-git1](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-git1)
+    - [adv-conclusion](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-conclusion)
+    - [adv-shell](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-shell)
+    - [adv-python](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-python)
+    - [adv-debug](https://www.eecs.umich.edu/courses/eecs201/wn2023/files/assignments/adv-debug)
 
 <p align="right">(<a href="/README.md">Back</a>)</p>
