@@ -67,13 +67,13 @@ Each week, one lecture survey and one quiz will be released. Each lecture and qu
 
 ## Gradescope and Autograder
 
-Homework assignments will be submitted through one of two methods: <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> or <a href="https://www.gradescope.com/">Gradescope</a>. Gradescope assignments have a hard deadline, but Gitlab assignments are all due at the end of the semester.
+Homework assignments will be submitted through one of two methods: [Gitlab](https://gitlab.eecs.umich.edu/) or [Gradescope](https://www.gradescope.com/). Gradescope assignments have a hard deadline, but Gitlab assignments are all due at the end of the semester.
 
 Submitting on gradescope is simple enough: answer the questions asked in the homework.
 
 <div name="why-not-submitting"></div>
 
-Assignments submitted via <a href="https://gitlab.eecs.umich.edu/">Gitlab</a> will be pushed up to the server, and then run on <a href="/Server.md">the course server</a>. Everytime you submit, ensure the following three things are true:
+Assignments submitted via [Gitlab](https://gitlab.eecs.umich.edu/) will be pushed up to the server, and then run on [the course server](/Server.md). Everytime you submit, ensure the following three things are true:
 
 - Have you correctly named the repository?
 - Have you added `brng` as a reporter?

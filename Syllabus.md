@@ -19,26 +19,26 @@ This class requires you to have previously taken any of the following courses:
 
 
 - EECS 180
-- <a href="https://eecs183.github.io/eecs183.org/">EECS 183</a>
-- <a href="https://engr101staff.github.io/engr101.org/">ENGR 101</a>
-- <a href="https://adue.engin.umich.edu/engineering-151-accelerated-introduction-to-computers-and-programming/">ENGR 151</a>
-- <a href="https://robotics102.github.io/">ROB 102</a>
+- [EECS 183](https://eecs183.github.io/eecs183.org/)
+- [ENGR 101](https://engr101staff.github.io/engr101.org/)
+- [ENGR 151](https://adue.engin.umich.edu/engineering-151-accelerated-introduction-to-computers-and-programming/)
+- [ROB 102](https://robotics102.github.io/)
 
 Alternatively, you may coenroll with one of the following courses:
 
-- <a href="https://eecs280.org/">EECS 280</a>
-- <a href="https://eecs281staff.github.io/eecs281.org/">EECS 281</a>
+- [EECS 280](https://eecs280.org/)
+- [EECS 281](https://eecs281staff.github.io/eecs281.org/)
 
 <br/>
 <br/>
 
 ## Lectures
 
-Lectures will take place Fridays from 10:30am-12:00pm at <a href="https://maps.studentlife.umich.edu/building/chrysler-center-continuing-engineering-education">220 Chrysler</a>. Classes will be recorded and available on <a href="https://caen.engin.umich.edu/lecrecording/">Leccap</a>. Alternative to going to classes in-person, a <a href="https://umich.zoom.us/j/93092386157">Zoom link</a> will be available.
+Lectures will take place Fridays from 10:30am-12:00pm at [220 Chrysler](https://maps.studentlife.umich.edu/building/chrysler-center-continuing-engineering-education"). Classes will be recorded and available on [Leccap](https://caen.engin.umich.edu/lecrecording/). Alternative to going to classes in-person, a [Zoom link](https://umich.zoom.us/j/93092386157) will be available.
 
 <br/>
 
-Each week, short bite-sized videos will be released in <a href="https://www.eecs.umich.edu/courses/eecs201/wn2023/schedule">the schedule tab of the course website</a>. The class will take the form of a flipped classroom: students can watch the online videos or come to the lecture in person (or both). The first half of each class will review the content of the videos, and the second half will act as a period of time to ask questions or do homework with help of the instructional aides and professor.
+Each week, short bite-sized videos will be released in [the schedule tab of the course website](https://www.eecs.umich.edu/courses/eecs201/wn2023/schedule). The class will take the form of a flipped classroom: students can watch the online videos or come to the lecture in person (or both). The first half of each class will review the content of the videos, and the second half will act as a period of time to ask questions or do homework with help of the instructional aides and professor.
 
 <br/>
 <br/>
@@ -49,4 +49,4 @@ Each week, short bite-sized videos will be released in <a href="https://www.eecs
 - <a hef="mailto:zalans@umich.edu">Zalan Shah</a> - Instructional Aide
 - <a hef="mailto:zalans@umich.edu">Kethan Gudi</a> - Instructional Aide
 
-<p align="right">(<a href="/README.md">Back</a>)</p>
+<p align="right"><a href="/README.md">Back</a></p>

@@ -7,7 +7,7 @@
 <br/>
 
 ## Course Server
-The course server is a CLI computer available for use by all EECS 201 students. The server will be the environment the course autograder will run in, and will act as as a tool for students whose personal machines don't support certain programs (such as <a href="https://valgrind.org/">Valgrind</a>).
+The course server is a CLI computer available for use by all EECS 201 students. The server will be the environment the course autograder will run in, and will act as as a tool for students whose personal machines don't support certain programs (such as [Valgrind](https://valgrind.org/)).
 
 <br/>
 <br/>
@@ -45,7 +45,7 @@ You'll get a bunch of prompts asking you questions. Don't change the default loc
 
 <br/>
 
-Anyways, what did we just make? <a href="https://www.ssh.com/academy/ssh-keys">SSH Keys</a> use a concept known as asymmetric encryption to prove a user is who they say they are. SSH involves two keys: a private and public key. Anybody has access to the public key, but only you have access to the private key. The special thing about these keys is that if you encrypt something with either key, you must use the other one in order to decrypt it. In other words, a public key cannot decrypt a message encrypted with a public key, but a private key can.
+Anyways, what did we just make? [SSH Keys](https://www.ssh.com/academy/ssh-keys) use a concept known as asymmetric encryption to prove a user is who they say they are. SSH involves two keys: a private and public key. Anybody has access to the public key, but only you have access to the private key. The special thing about these keys is that if you encrypt something with either key, you must use the other one in order to decrypt it. In other words, a public key cannot decrypt a message encrypted with a public key, but a private key can.
 
 <br/>
 
@@ -62,7 +62,7 @@ There are two places you'll need to submit your public key. Before anything else
 
 and copy the entire output.
 
-Then, log into the <a href="https://gitlab.eecs.umich.edu/">EECS Gitlab server</a> and click your profile in the top right, then go to SSH keys. Paste in your key and submit it. Next, go to the <a href="https://peritia.eecs.umich.edu/account/">course server user account form</a> and submit your uniqname. You should recieve an email that will take you to the form and ask you to submit your ssh key.
+Then, log into the [EECS Gitlab server](https://gitlab.eecs.umich.edu/") and click your profile in the top right, then go to SSH keys. Paste in your key and submit it. Next, go to the [course server user account form](https://peritia.eecs.umich.edu/account/) and submit your uniqname. You should recieve an email that will take you to the form and ask you to submit your ssh key.
 
 
 <br/>
@@ -70,7 +70,7 @@ Then, log into the <a href="https://gitlab.eecs.umich.edu/">EECS Gitlab server</
 
 ### Logging In
 
-Once you have submitted your keys, you're ready to log onto the server. The command is as follows (replacing &lt;UNIQNAME&gt; with your actual uniqname):
+Once you have submitted your keys, you're ready to log onto the server. The command is as follows (replacing `<UNIQNAME>` with your actual uniqname):
 
     ssh <UNIQNAME>@peritia.eecs.umich.edu
 
@@ -85,4 +85,4 @@ Now, you can very easily log onto the server with:
     ssh eecs201
 
 
-<p align="right">(<a href="/README.md">Back</a>)</p>
+<p align="right"><a href="/README.md">Back</a></p>

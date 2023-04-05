@@ -8,34 +8,33 @@
 
 Table of Contents
 
-1. <a href="/Syllabus.md">Syllabus</a>
-   - <a href="/Syllabus.md#prerequisites">Prerequisites</a>
-   - <a href="/Syllabus.md#lectures">Lectures</a>
-   - <a href="/Syllabus.md#staff">Staff</a>
+1. [Syllabus](/Syllabus.md)
+   - [Prerequisites](/Syllabus.md#prerequisites)
+   - [Lectures](/Syllabus.md#lectures)
+   - [Staff](/Syllabus.md#staff)
 
-2. <a href="/Grading.md">Grading</a>
-    - <a href="/Grading.md#letter-grades">Letter Grades</a>
-    - <a href="/Grading.md#basic">Basic</a>
-    - <a href="/Grading.md#advanced">Advanced</a>
-    - <a href="/Grading.md#miscellaneous">Miscellaneous</a>
-    - <a href="/Grading.md#gradescope-and-autograder">Gradescope and Autograder</a>
+2. [Grading](/Grading.md)
+    - [Letter Grades](/Grading.md#letter-grades)
+    - [Basic](/Grading.md#basic)
+    - [Advanced](/Grading.md#advanced)
+    - [Miscellaneous](/Grading.md#miscellaneous)
+    - [Gradescope and Autograder](/Grading.md#gradescope-and-autograder)
 
-3. <a href="/Projects">Projects</a>
-    - <a href="/Projects/README.md#foss">FOSS</a>
-    - <a href="/Projects/README.md#website">Website</a>
+3. [Projects](/Projects)
+    - [FOSS](/Projects/README.md#foss)
+    - [Website](/Projects/README.md#website)
 
-4. <a href="/Server.md">Course Server</a>
-    - <a href="/Server.md#registering">Registering</a>
-    - <a href="/Server.md#logging-in">Logging In</a>
+4. [Course Server](/Server.md)
+    - [Registering](/Server.md#registering)
+    - [Logging In](/Server.md#logging-in)
 
-5. <a href="#frequently-asked-questions">Frequently Asked Questions</a>
+5. [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Frequently Asked Questions
 
-
   - Q: Why can't I log onto the server?
   - A: There could honestly be a million reasons why, but ensure the following:
-    - You have <a href="/Server.md#creating-your-ssh-key">submitted your ssh key</a> correctly
+    - You have [submitted your ssh key](/Server.md#creating-your-ssh-key) correctly
     - If you were able to log on before but are no longer able to, you did not change the location of the `~/.ssh/id_ed25519` or `~/.ssh/id_ed25519.pub` files, and you haven't generated new keys recently
   - Q: Why is `eecs201-test` unable to recieve/clone my submission?
-  - A: Ensure your submission has followed <a href="/Grading.md#why-not-submitting">these three steps</a>.
+  - A: Ensure your submission has followed [these three steps](/Grading.md#why-not-submitting).
